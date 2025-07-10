@@ -4,14 +4,13 @@
 
 This repository is a fork of a collaborative project developed during a course at UC San Diego. The goal was to classify handwriting samples from Alzheimer’s disease patients using machine learning models.
 
-See the original team repository: [here](https://github.com/nickehsani/CSE151A_DARWIN_Alzheimer-s)
+__See Original Team Repository:__ [here](https://github.com/nickehsani/CSE151A_DARWIN_Alzheimer-s)
 
 ## Introduction
 Early diagnosis of Alzheimer's disease remains the primary means to delay brain damage and improve the quality of life of people affected, therefore, predicting which early diagnosis methods are most effective is ideal. The DARWIN dataset (Diagnosis AlzheimeR WIth haNdwriting) contains handwriting data from people affected by Alzheimer's, as well as people without Alzheimer's, and is the largest publicly available in terms of participants and handwriting tasks. Our goal for this project was to leverage the DARWIN dataset to develop classification models that will evaluate which tasks are more effective at indicating Alzheimer's Disease, as well as the effectiveness of the specific features of each task.
 
-__Link to Dataset:__
-Link to DARWIN dataset: [here](https://archive.ics.uci.edu/dataset/732/darwin)
 
+__Link to DARWIN Dataset:__ [here](https://archive.ics.uci.edu/dataset/732/darwin)
 __Link to Final Report:__ [here](https://github.com/nickehsani/CSE151A_DARWIN_Alzheimer-s/blob/main/Written_Report.ipynb)
 
 ## Abstract
