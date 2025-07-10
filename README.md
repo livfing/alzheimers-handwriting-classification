@@ -2,7 +2,7 @@
 
 ## About
 
-This repository is a fork of a collaborative project developed during a course at UC San Diego. The goal was to classify handwriting samples from Alzheimer’s disease patients using machine learning models.
+This repository is a fork of a collaborative project developed for CSE151A: Machine Learning Algorithms at UC San Diego. The goal was to classify handwriting tasks indicating Alzheimer’s disease progression using handwriting samples and machine learning models.
 
 __See Original Team Repository:__ [here](https://github.com/nickehsani/CSE151A_DARWIN_Alzheimer-s)
 
