@@ -2,7 +2,7 @@
 
 ## About
 
-This repository is a fork of a collaborative project developed for CSE151A: Machine Learning Algorithms at UC San Diego. The goal was to classify handwriting tasks indicating Alzheimer’s disease progression using handwriting samples and machine learning models.
+This repository is a fork of a collaborative project developed for CSE151A: Machine Learning Algorithms at UC San Diego. The goal was to classify handwriting tasks indicating Alzheimer’s disease progression and evaluate various machine learning models.
 
 __See Original Team Repository:__ [here](https://github.com/nickehsani/CSE151A_DARWIN_Alzheimer-s)
 
@@ -11,6 +11,7 @@ Early diagnosis of Alzheimer's disease remains the primary means to delay brain 
 
 
 __Link to DARWIN Dataset:__ [here](https://archive.ics.uci.edu/dataset/732/darwin)
+
 __Link to Final Report:__ [here](https://github.com/nickehsani/CSE151A_DARWIN_Alzheimer-s/blob/main/Written_Report.ipynb)
 
 ## Abstract
